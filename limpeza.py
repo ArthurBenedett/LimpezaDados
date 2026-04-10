@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 
+#leitura dos dados criados
 dados = pd.read_csv('dados_hospitalares.csv').to_dict('records')
 sensores = json.load(open('sensores.json'))
 
