@@ -1,3 +1,1 @@
-[{"id": 101, "unidade": "BPM", "leituras": [80, 85, 90]}, 
-{"id": 103, "unidade": "Hz", "leituras": [1.5, 1.6, 1.7]}, 
-{"id": 105, "unidade": "BPM", "leituras": []}]
+[{"id": 101, "unidade": "BPM", "leituras": [80, 85, 90]}, {"id": 103, "unidade": "Hz", "leituras": [1.5, 1.6, 1.7]}, {"id": 105, "unidade": "BPM", "leituras": []}]
